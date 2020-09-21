@@ -1,4 +1,5 @@
-this is part of [core-of-things](https://github.com/azizzaeny/core-of-things)   
+This is part of [core-of-things](https://github.com/azizzaeny/core-of-things)     
+Core of things is an idea to understand, share, preserve and learn real-world domain logic..  
 
 Collections of Business Domain (Financing, Trading and Banking)  translated into clojure code.  
 
